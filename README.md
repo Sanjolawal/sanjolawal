@@ -21,3 +21,5 @@ Wordpress
 - ⚡ Fun fact: ...
 - I love gaming
 
+For consultation 
+mail me @ sanjolawal600@gmail.com
