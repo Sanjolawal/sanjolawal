@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Sanjolawal/sanjolawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Sanjo and i'm passionate about creating things for the internet. My journey to web development started about 2019, when i tried to work on a Wordpress theme for my personal use, the freedom of creating any design i want without limit made me a developer.
 
-Here are some ideas to get you started:
+Now, with the help of freelancing platform, have had the privilege's of utilizing my skills for both startup and existing companies to create a responsive, fast and user friendly website for their users day to day usage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+My expertise includes :
+Bootstrap
+Javascript
+React
+Wordpress
+
+
+
+- 🌱 I’m currently  advancing my knowledge on 
+  Reactjs 
+  javascript
+  
 - ⚡ Fun fact: ...
--->
+- I love gaming
+
