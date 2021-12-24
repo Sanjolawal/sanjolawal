@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Sanjo and i'm passionate about creating things for the internet. My journey to web development started about 2019, when i tried to work on a Wordpress theme for my personal use, the freedom of creating any design i want without limit made me a developer.
+Hi, I'm Sanjo and i'm passionate about creating things for the internet. My journey to web development started about 2019, when i tried to work on a Wordpress theme for my personal use, the freedom of creating any design i want without limit made me a developer.
 
 Now, with the help of freelancing platform, have had the privilege's of utilizing my skills for both startup and existing companies to create a responsive, fast and user friendly website for their users day to day usage.
 
