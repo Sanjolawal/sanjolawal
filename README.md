@@ -7,7 +7,7 @@ Now, with the help of freelancing platform, have had the privilege's of utilizin
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 My expertise includes :
-Bootstrap
+TailwindCSS
 Javascript
 React
 Wordpress
