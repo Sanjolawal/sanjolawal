@@ -10,7 +10,9 @@ My expertise includes :
 TailwindCSS
 Javascript
 React
-Wordpress
+Expressjs
+Nodejs
+Mongodb
 
 
 
